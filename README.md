@@ -30,11 +30,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoGiglio&bg_color=0d1117&color=2f80ed&line=296ecb&point=6db33f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![snake gif](https://github.com/GustavoGiglio/GustavoGiglio/blob/output/github-contribution-grid-snake.svg)
+ 
 <div align="center"> 
 <a href = "mailto:gtsgiglio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-giglio-739a1b245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
