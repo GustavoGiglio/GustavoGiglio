@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Giglio;I'm+23+years+old;I'm+studying+systems+analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoGiglio&show_icons=true&count_private=true&hide_border=true&title_color=0000000&icon_color=0000000&text_color=0000000&bg_color=F5F6FA" alt="Gustavo Giglio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGiglio&layout=compact&hide_border=true&title_color=0000000text_color=ff91a4&bg_color=F5F6FA" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoGiglio&show_icons=true&count_private=true&hide_border=true&title_color=0000000&icon_color=0000000&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Giglio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGiglio&layout=compact&hide_border=true&title_color=0000000text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/><br><br>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoGiglio&bg_color=F5F6FA&color=2f80ed&line=296ecb&point=6db33f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoGiglio&bg_color=0d1117&color=2f80ed&line=296ecb&point=6db33f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
 <a href = "mailto:gtsgiglio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
