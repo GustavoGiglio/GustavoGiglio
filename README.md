@@ -8,7 +8,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGiglio&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-## Tecnologias que utilizo 📚
+## Technologies and Tools 📚
 
 <div align="center" style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5"/>
