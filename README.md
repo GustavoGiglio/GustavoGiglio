@@ -1,45 +1,51 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Giglio;I'm+23+years+old;I'm+studying+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Giglio;Be+Welcome!+👋" alt="Typing SVG">
 
-<div align="center" >
-  <img  align="center" height="180em" vspace="5" hspace="20" src="https://github-readme-stats.vercel.app/api?username=GustavoGiglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGiglio&layout=compact&langs_count=16&theme=tokyonight"/>
+
+<h2>🚀 About Me</h2>
+
+<p>    
+    Hello! I'm Gustavo Giglio, a full-stack development enthusiast, currently residing in the beautiful state of Rio Grande do Sul, Brazil. Currently, I am deepening my knowledge in the area through the Systems Analysis and Development course in IFRS. My passion for technology led me to explore different languages and frameworks, enabling me to create complete and versatile solutions. I am excited and committed to finding exciting programming opportunities where I can apply my creativity and technical skills to drive innovative projects.
+</p>
+    
+<div style="display: inline_block">
+    <h2>💻Technologies:</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="markdown"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="java"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="php"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="spring"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+    <h2>🛠️Tools</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma"/>
+    <img src="https://img.icons8.com/color/notion" width="40" height="40" alt="Notion"/>
+    <img src="https://img.icons8.com/color/trello" width="40" height="40" alt="trello"/>
+    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/libreoffice-main-icon.png"  width="40" height="40" alt="libreoffice"/>
+    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" width="40" height="40" alt="eclipse"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
+    
+</div><br>
+
+<h2>🔥GitHub Status</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoGiglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGiglio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-## Technologies and Tools 📚
-
-<div align="center" style="display: inline_block"><br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit"  alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JS"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"  alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular"/>
-    <img src="https://img.shields.io/badge/PHP-005C84?style=for-the-badge&logo=php&logoColor=white"  alt="PHP"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  alt="java"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  alt="git"/>
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/><br><br>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GustavoGiglio&bg_color=0d1117&color=2f80ed&line=296ecb&point=6db33f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Snake animation](https://github.com/GustavoGiglio/GustavoGiglio/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> 
-<a href = "mailto:gtsgiglio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-giglio-739a1b245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+    <h3>Connect with me</h3>
+    <a href = "mailto:gtsgiglio@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gustavo-giglio-739a1b245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div><br>
  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoGiglio}/count.svg" /></p> 
-<br>
-</div>
+ <div align="center">
+    <p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoGiglio}/count.svg" /></p> 
+</div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
